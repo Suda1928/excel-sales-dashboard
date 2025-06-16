@@ -37,7 +37,7 @@ This repository contains an interactive Excel dashboard that visualizes Vrinda S
 
 ## 🔗 Demo Screenshot
 
-![Dashboard Preview](**images/imagesscreenshot1.png)
+![Dashboard Preview](**images/imagesscreenshot1.png**)
 **
 
 ## 👤 Author
